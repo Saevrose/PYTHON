@@ -1,0 +1,3 @@
+if not saev 
+source saev/bin/activate
+python3 PongGame.py
